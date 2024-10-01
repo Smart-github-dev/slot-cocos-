@@ -1,0 +1,2 @@
+# FortuneTree
+Slot machine game
